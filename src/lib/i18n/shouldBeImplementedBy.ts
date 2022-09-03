@@ -1,5 +1,5 @@
 import { mustBeString } from '../checks/mustBeString';
-import { LocalizableMessage } from '../i18n/LocalizableMessage';
+import { LocalizableMessage } from './LocalizableMessage';
 
 /**
  * @hidden

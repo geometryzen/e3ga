@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import { VectorN } from '../../src/math/VectorN';
+import { VectorN } from '../../../src/lib/math/VectorN';
 
 describe("VectorN", function () {
     describe("constructor", function () {

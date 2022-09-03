@@ -1,6 +1,6 @@
 import { expect } from 'chai';
-import { LockableMixin } from '../../src/core/Lockable';
-import { applyMixins } from '../../src/utils/applyMixins';
+import { LockableMixin } from '../../../src/lib/core/Lockable';
+import { applyMixins } from '../../../src/lib/utils/applyMixins';
 
 /**
  * WARNING: property getter and setter don't work with this mixin approach.

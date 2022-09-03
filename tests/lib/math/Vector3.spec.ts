@@ -1,6 +1,6 @@
 import { expect } from 'chai';
-import { Spinor3 } from '../../src/lib/math/Spinor3';
-import { Vector3 } from '../../src/lib/math/Vector3';
+import { Spinor3 } from '../../../src/lib/math/Spinor3';
+import { Vector3 } from '../../../src/lib/math/Vector3';
 
 const e1 = Vector3.e1();
 e1.lock();

@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import { Vector2 } from '../../src/math/Vector2';
+import { Vector2 } from '../../../src/lib/math/Vector2';
 
 describe("Vector2", function () {
 

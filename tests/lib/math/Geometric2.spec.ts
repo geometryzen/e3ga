@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import { Geometric2 } from '../../src/lib/math/Geometric2';
+import { Geometric2 } from '../../../src/lib/math/Geometric2';
 
 // const zero = Geometric2.zero;
 const one = Geometric2.one(true);

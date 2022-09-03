@@ -1,3 +1,3 @@
-export { Geometric2 } from './math/Geometric2';
-export { Geometric3 } from './math/Geometric3';
+export { Geometric2 } from './lib/math/Geometric2';
+export { Geometric3 } from './lib/math/Geometric3';
 

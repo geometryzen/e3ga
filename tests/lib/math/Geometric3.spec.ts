@@ -1,9 +1,9 @@
 import { expect } from 'chai';
-import { BivectorE3 } from "../../src/lib/math/BivectorE3";
-import { Geometric3 } from "../../src/lib/math/Geometric3";
-import { Spinor3 } from "../../src/lib/math/Spinor3";
-import { Vector3 } from "../../src/lib/math/Vector3";
-import { VectorE3 } from "../../src/lib/math/VectorE3";
+import { BivectorE3 } from "../../../src/lib/math/BivectorE3";
+import { Geometric3 } from "../../../src/lib/math/Geometric3";
+import { Spinor3 } from "../../../src/lib/math/Spinor3";
+import { Vector3 } from "../../../src/lib/math/Vector3";
+import { VectorE3 } from "../../../src/lib/math/VectorE3";
 
 /**
  * @hidden

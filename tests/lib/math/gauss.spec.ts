@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import { gauss } from '../../src/math/gauss';
+import { gauss } from '../../../src/lib/math/gauss';
 
 describe("gauss", function () {
 
